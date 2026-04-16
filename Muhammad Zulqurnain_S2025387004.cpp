@@ -8,7 +8,7 @@ using namespace std;
    ========================================================= */
 
 /* =========================================================
-   Q1 – Arrays and Searching
+   Q1 â€“ Arrays and Searching
    ========================================================= */
 
 /*
@@ -60,7 +60,7 @@ void findMinMax(int arr[], int size, int &minVal, int &maxVal)
 }
 
 /* =========================================================
-   Q2 – Bubble Sort
+   Q2 â€“ Bubble Sort
    ========================================================= */
 
 /*
@@ -109,7 +109,7 @@ void bubbleSort(int arr[], int size, int &swapCount)
 }
 
 /* =========================================================
-   Q3 – Binary Search
+   Q3 â€“ Binary Search
    ========================================================= */
 
 /*
@@ -150,7 +150,7 @@ int binarySearch(int arr[], int size, int key, int &iterations)
 }
 
 /* =========================================================
-   Q4 – Complexity Analysis
+   Q4 â€“ Complexity Analysis
    ========================================================= */
 
 /*
@@ -224,7 +224,7 @@ bool checkArrays(int A[], int B[], int n)
 }
 
 /* =========================================================
-   Q5 – Singly Linked List
+   Q5 â€“ Singly Linked List
    ========================================================= */
 
 /*
@@ -413,6 +413,3 @@ int main()
     return 0;
 }
 
-/*
-// GitHub: https://github.com/YourUsername/DSA-Assignments
-*/
